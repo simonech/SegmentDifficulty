@@ -2,11 +2,10 @@
 Site that connects to Strava API and computes climbs difficulty.
 
 It uses the following concepts:
-* [Climb Difficulty](#ClimbDifficulty)
-* [Strava API](#StravaAPI)
-* [Encoded Polyline](EncodedPolyline)
+* [Climb Difficulty](#climb-difficulty)
+* [Strava API](#strava-api)
+* [Encoded Polyline](#encoded-polyline)
 
-<a name="ClimbDifficulty"/>
 ## Climb difficulty
 
 It's an attempt to identify with a number the difficulty of a climb.
@@ -47,13 +46,11 @@ Whereby: d = overall difference in height (m); li = distance in km of the sector
 More informations on [http://digilander.libero.it/napobike/Codifava.htm](http://digilander.libero.it/napobike/Codifava.htm)
 
 
-<a name="StravaAPI"/>
 ## Strava API
 More information on the Strava API are available at [http://strava.github.io/api/](http://strava.github.io/api/).
 
 A .NET implementation is avalable: [stravadotnet](https://github.com/inexcitus/stravadotnet)
 
-<a name="EncodedPolyline"/>
 ##Encoded Polyline
 
 The map of each segment is stored as encode polyline following Google Map [Encoded Polyline Algorithm Format](https://developers.google.com/maps/documentation/utilities/polylinealgorithm).
