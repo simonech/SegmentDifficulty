@@ -30,6 +30,8 @@ Whereby: H = difference in height; D = distance in meters; T = top of mountain i
 
 Developed by the Dutch cycling magazine [Fiets](http://www.fiets.nl/)
 
+More informations on [http://www.bertevers.nl/Profiles/profiles.htm](http://www.bertevers.nl/Profiles/profiles.htm)
+
 ### Salite.ch
 
 ```
