@@ -20,11 +20,15 @@ Whereby: H = difference in height; D = distance in meters; T = top of mountain i
 
 The last part of the formula does only apply to mountains above 1000 meters.
 
+More informations on [http://www.climbbybike.com/climb_difficulty.asp](http://www.climbbybike.com/climb_difficulty.asp)
+
 ### FIETS-index
 ```
 [H^2 / D*10] + (T - 1000):1000 
 ```
 Whereby: H = difference in height; D = distance in meters; T = top of mountain in meters
+
+Developed by the Dutch cycling magazine [Fiets](http://www.fiets.nl/)
 
 ### Salite.ch
 
